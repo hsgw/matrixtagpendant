@@ -1,0 +1,22 @@
+i1_putChar: CODE, 482 0 13
+__stringtab: STRCODE, 512 0 1
+_frameChar: STRCODE, 553 0 156
+_TRISA_LED: STRCODE, 533 0 20
+_animation: CODE, 1861 0 85
+_putChar: CODE, 2023 0 14
+_main: CODE, 1181 0 191
+_frameSine: STRCODE, 838 0 24
+_frameArrow: STRCODE, 862 0 12
+_textBlink: CODE, 1678 0 94
+_loadFrame: CODE, 1946 0 77
+_textScroll: CODE, 1372 0 181
+__initialization: CODE, 451 0 29
+_PORTA_LED: STRCODE, 513 0 20
+_isr: CODE, 4 0 409
+_frameBox: STRCODE, 808 0 30
+_writeEEPROM: CODE, 1553 0 125
+___wmul: CODE, 414 0 37
+_frameTetris: STRCODE, 709 0 99
+_loadFrameScroll: CODE, 1772 0 89
+_readText: CODE, 874 0 307
+Total: 2013
